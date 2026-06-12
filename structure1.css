@@ -1,0 +1,53 @@
+body {
+    background: rgb(234, 234, 234);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#optional-tasks {
+    font-size: 40px;
+}
+
+#tasks {
+    font-size: 22px;
+    font-weight: 560;
+}
+
+#box1 {
+    height: 18px;
+    width: 18px;
+}
+
+#box2 {
+    height: 18px;
+    width: 18px;
+}
+
+.box {
+    height: 18px;
+    width: 18px;
+}
+
+#submit-btn {
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 520;
+}
+
+#adding-btn {
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 520;
+}
+
+#delete-btn {
+    border-radius: 5px;
+    font-size:14px;
+    font-weight: 520;
+    margin-top: 5px;
+}
+
+#edit-btn {
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 520;
+}
