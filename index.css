@@ -5,7 +5,7 @@ body {
 
 #h1 {
     text-align: center;
-    font-size:60px;
+    font-size: 60px;
 }
 
 #main-tasks {
@@ -16,6 +16,7 @@ body {
     font-size: 22px;
     font-weight: 560;
 }
+
 #box1 {
     height: 22px;
     width: 21px;
@@ -37,24 +38,24 @@ body {
 }
 
 #submit-btn {
-    height:30px;
-    width:68px;
+    height: 30px;
+    width: 68px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
 }
 
 #adding-btn {
-    height:30px;
-    width:120px;
+    height: 30px;
+    width: 120px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
 }
 
 #delete-btn {
-    height:30px;
-    width:105px;
+    height: 30px;
+    width: 105px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
@@ -62,8 +63,8 @@ body {
 }
 
 #edit-btn {
-    height:30px;
-    width:90px;
+    height: 30px;
+    width: 90px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;

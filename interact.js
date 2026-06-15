@@ -11,9 +11,7 @@ addBtn.addEventListener("click", function () {
         let taskId = `task-${Date.now()}`
 
         taskList.insertAdjacentHTML("beforeend",
-            `<li>${taskInput}
-            <input class="box" id="${taskId}" type="checkbox"></li><br>
-            `
+            `<li>${taskInput} <input class="box" id="${taskId}" type="checkbox"></li><br>`
         )
     }
 })

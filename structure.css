@@ -33,24 +33,24 @@ body {
 }
 
 #submit-btn {
-    height:30px;
-    width:68px;
+    height: 30px;
+    width: 68px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
 }
 
 #adding-btn {
-    height:30px;
-    width:130px;
+    height: 30px;
+    width: 130px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
 }
 
 #delete-btn {
-    height:30px;
-    width:110px;
+    height: 30px;
+    width: 110px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
@@ -58,8 +58,8 @@ body {
 }
 
 #edit-btn {
-    height:30px;
-    width:90px;
+    height: 30px;
+    width: 90px;
     border-radius: 5px;
     font-size: 17px;
     font-weight: 520;
